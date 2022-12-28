@@ -1,0 +1,2 @@
+This is a simple web application with a database, to register/login users and submit their secrets. It's also possible to register using google/faceboook.
+I made this project to learn about authentication, security and cookies. This was my first contact with passport js.
